@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>winter season Collection in 2027</h1>
+            <h1>yenda kalam season Collection in 2027</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -1073,7 +1073,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-col">
-                    <h3>NexusShop</h3>
+                    <h3>Nikkki</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
